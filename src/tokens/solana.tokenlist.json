@@ -4,7 +4,6 @@
   "symbol": "GiorgiosErsterToken",
   "name": "GGFTK",
   "decimals": 9,
-  "![Token-Logo](https://raw.githubusercontent.com/giorgioking/token-list/refs/heads/main/abcc6f21-713b-4f50-8efd-b435ae66.jpg)
-",
+  "logoURI": "https://raw.githubusercontent.com/giorgioking/token-list/refs/heads/main/abcc6f21-713b-4f50-8efd-b435ae66.jpg",
   "tags": "utility-token"
 }
